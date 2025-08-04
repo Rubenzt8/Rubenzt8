@@ -8,13 +8,8 @@
 
 <img width="50%" align="right" src="https://www.michaelpage.com.au/sites/michaelpage.com.au/files/2022-01/Software%20Developer.jpg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
-
+- 🔭 Currently exploring different areas of software development.  
+- 🌱 Learning Git, Java, Python & GDScript.  
+- 👯 Open to collaborate with software development teams or indie projects.  
+- 💬 Ask me about SQL, Java, Git or Python.  
+- 🎮 Fun fact: I'm starting to dive into game development!

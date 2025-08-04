@@ -1,5 +1,7 @@
 ## Hi there, I'm Ruben F.C. 👋
 
+<div size='20px'> Hi! My name is Ruben. Thank You for taking the time to view my GitHub Profile! 
+</div>
 
 
 <!--

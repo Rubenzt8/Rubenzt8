@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me  
-<img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="100px" align="right" />
+<img src="[https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif](https://www.michaelpage.com.au/sites/michaelpage.com.au/files/2022-01/Software%20Developer.jpg)" width="100px" align="right" />
 
 - 🔭 Currently exploring different areas of software development.  
 - 🌱 Learning Git, Java, Python & GDScript.  
@@ -14,8 +14,6 @@
 - 🎮 Fun fact: I'm starting to dive into game development!
 
 ---
-
-<img width="100%" alt="Coding banner" src="https://www.michaelpage.com.au/sites/michaelpage.com.au/files/2022-01/Software%20Developer.jpg" />
 
   
 <!--

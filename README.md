@@ -14,6 +14,4 @@
   
 - 👯 Open to collaborate with software development teams or indie projects.
   
-- 💬 Ask me about SQL, Java, Git or Python.
-  
 - 🎮 Fun fact: I'm starting to dive into game development!

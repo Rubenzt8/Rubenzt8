@@ -4,7 +4,7 @@
 
 <hr />
 
-<h2> About Me </h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<h2> About Me </h2>
 
 - 🔭 Currently exploring different areas of software development.
   

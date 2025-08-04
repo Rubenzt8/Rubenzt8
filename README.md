@@ -6,7 +6,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg](https://www.michaelpage.com.au/sites/michaelpage.com.au/files/2022-01/Software%20Developer.jpg" />
+<img width="55%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg](https://www.michaelpage.com.au/sites/michaelpage.com.au/files/2022-01/Software%20Developer.jpg" />
 
 - 🔭 I’m currently working on  Soy Estudiante
   
@@ -18,4 +18,3 @@
   
 - ⚡ Fun fact: Me gustan los girasoles.
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg](https://www.michaelpage.com.au/sites/michaelpage.com.au/files/2022-01/Software%20Developer.jpg" width = 32px> </h2>

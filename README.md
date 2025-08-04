@@ -4,7 +4,7 @@
 
 <hr />
 
-<h2> About Me </h2> <img src="https://www.michaelpage.es/sites/michaelpage.es/files/2021-11/Full%20Stack%20Developer.jpg"; align="right"; height=200; width=500;/>
+<h2> About Me </h2> <img src="https://www.michaelpage.es/sites/michaelpage.es/files/2021-11/Full%20Stack%20Developer.jpg"; align="right"; height=250; width=500;/>
 
 - 🔭 Currently exploring different areas of software development.
   

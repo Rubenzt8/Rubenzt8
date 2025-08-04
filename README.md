@@ -4,17 +4,16 @@
 
 <hr />
 
-<div style="overflow: hidden;">
-  <img src="https://www.michaelpage.com.au/sites/michaelpage.com.au/files/2022-01/Software%20Developer.jpg" style="float: right; margin-left: 20px; width: 350px;" />
+<h2> About Me </h2>
 
-  <h3>👨‍💻 About Me</h3>
-  <ul>
-    <li>🔭 Currently exploring different areas of software development.</li>
-    <li>🌱 Learning Git, Java, Python & GDScript.</li>
-    <li>👯 Open to collaborate with software development teams or indie projects.</li>
-    <li>💬 Ask me about SQL, Java, Git or Python.</li>
-    <li>🎮 Fun fact: I'm starting to dive into game development!</li>
-  </ul>
-</div>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg](https://www.michaelpage.com.au/sites/michaelpage.com.au/files/2022-01/Software%20Developer.jpg)" />
 
-<hr />
+- 🔭 I’m currently working on  Soy Estudiante
+  
+- 🌱 I’m currently learning Git, Java y GitHub
+  
+- 👯 I’m looking to collaborate on Proyectos
+  
+- 💬 Ask me about Sql, Java, C#, JavaScript
+  
+- ⚡ Fun fact: Me gustan los girasoles.

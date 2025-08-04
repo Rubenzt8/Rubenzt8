@@ -4,16 +4,18 @@
 
 ---
 
-### 👨‍💻 About Me  
-
-<img src="https://www.michaelpage.com.au/sites/michaelpage.com.au/files/2022-01/Software%20Developer.jpg" width="200px" style="float:right; margin-left:15px; margin-bottom:15px;" />
-
-- 🔭 Currently exploring different areas of software development.  
-- 🌱 Learning Git, Java, Python & GDScript.  
-- 👯 Open to collaborate with software development teams or indie projects.  
-- 💬 Ask me about SQL, Java, Git or Python.  
-- 🎮 Fun fact: I'm starting to dive into game development!
-
-<div style="clear:both;"></div>
+<div style="overflow:hidden;">  
+  <img src="https://www.michaelpage.com.au/sites/michaelpage.com.au/files/2022-01/Software%20Developer.jpg" width="200px" style="float:right; margin-left:15px;" />
+  
+  <h3>👨‍💻 About Me</h3>
+  
+  <ul>
+    <li>🔭 Currently exploring different areas of software development.</li>
+    <li>🌱 Learning Git, Java, Python & GDScript.</li>
+    <li>👯 Open to collaborate with software development teams or indie projects.</li>
+    <li>💬 Ask me about SQL, Java, Git or Python.</li>
+    <li>🎮 Fun fact: I'm starting to dive into game development!</li>
+  </ul>
+</div>
 
 ---

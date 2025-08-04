@@ -4,9 +4,8 @@
 
 <hr />
 
-<h2> About Me </h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-
 <img width="50%" align="right" src="https://www.michaelpage.com.au/sites/michaelpage.com.au/files/2022-01/Software%20Developer.jpg" />
+<h2> About Me </h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 - 🔭 Currently exploring different areas of software development.
   

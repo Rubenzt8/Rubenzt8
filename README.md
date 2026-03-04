@@ -1,6 +1,6 @@
 <h2>Hi there! My name is Ruben F.C. 👋</h2>
 
-<div style="font-size:20px;">Thank you for taking the time to visit my GitHub profile!</div>
+<div style="font-size:20px;"><em>I build applications thinking about who uses them and who tries to break them.</em></div>
 
 <hr />
 

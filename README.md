@@ -4,7 +4,7 @@
 
 <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aidloyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> About Me </h2>
 
-- 🔭 Currently working as a Full Stack Java Developer, finishing my DAM degree [2026].
+- 🔭 Currently working as a Full Stack Java Developer, Higher Technician in Multi-platform Applications Development (HND/DAM) [2026].
 - 🔐 Deepening my knowledge in offensive security through TryHackMe & HackTheBox.
 - 🌱 Expanding my skills in Python & GDScript.
 - 👯 Open to collaborate with software development teams or indie projects.

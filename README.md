@@ -33,7 +33,7 @@
 |:------------|:-------:|:-------|
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="25"> **Docker** | **Proficient** | Containerization & environment deployment |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="25"> **Git / GitHub** | **Main** | Version control & CI/CD workflows |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/n8n/n8n.png" width="25"> **n8n** | **Learning** | Workflow automation & AI agents integration |
+| <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="25"> **n8n** | **Learning** | Workflow automation & AI agents integration |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" width="25"> **IntelliJ / VS Code** | **Main** | Daily development environments |
 
 ---
@@ -54,10 +54,17 @@
 
 </details>
 
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <a href="https://github.com/Rubenzt8?tab=followers"><img src="https://img.shields.io/github/followers/Rubenzt8?style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/Rubenzt8?tab=stars"><img src="https://img.shields.io/github/stars/Rubenzt8?style=social" alt="GitHub User's stars"></a>
+</div>
+
 <hr />
 
 <div align="center">
-  <a href="www.linkedin.com/in/ruben-flores-calderon">
+  <a href="https://www.linkedin.com/in/ruben-flores-calderon">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>

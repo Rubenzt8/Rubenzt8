@@ -1,15 +1,15 @@
 <h2>Hi there! My name is Ruben F.C. 👋</h2>
-<div style="font-size:18px;"><em>I build applications thinking about who uses them and who tries to break them.</em></div>
+<div style="font-size:18px;"><em>I build scalable applications with a Security-by-Design mindset.</em></div>
 <hr />
 
 <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aidloyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> About Me </h2>
 
-- 🔭 Final-stage as a Full Stack Java Developer,
-- 🧑🏻‍💻 Higher Technician in Multi-platform Applications Development (HND/DAM) [2026].
-- 🔐 Deepening my knowledge in offensive security through TryHackMe & HackTheBox.
-- 🌱 Expanding my skills in Python & GDScript.
-- 👯 Open to collaborate with software development teams or indie projects.
-- 🎮 Fun fact: I'm starting to dive into game development with Godot!
+- 🚀 **Full Stack Java Developer** specializing in robust backend architectures.
+- 🎓 **Higher Technician in Multi-platform Applications Development (DAM)** [2026] & **MUI (Research Master)**.
+- 🔐 **Cybersecurity Analyst (CCST)** focused on vulnerability remediation and offensive security.
+- 🤖 **AI & Automation Enthusiast:** Building intelligent workflows with **n8n** and Python.
+- 🌍 **Bilingual (English C1):** Functional fluency for international technical environments.
+- 👯 Open to collaborate on enterprise software, cybersecurity tools, or innovative AI projects.
 
 <hr />
 
@@ -18,61 +18,46 @@
 
 ---
 
-### 📝 Programming Languages
-| <div style="width:400px">Technology</div> | <div style="width:150px">Level</div> | <div style="width:350px">Usage</div> |
-|------------|-------|-------|
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="40"> **Java** | Main | Daily use & high skill level |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="40"> **HTML5 / CSS** | Proficient | High use & solid skill level |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="40"> **Python** | Learning | Currently expanding skills |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/godot/godot.png" width="40"> **GDScript** | Learning | Currently expanding skills |
+### 📝 Programming Languages & Frameworks
+| Technology | Level | Usage |
+|:------------|:-------:|:-------|
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="25"> **Java (Spring Boot)** | **Main** | Enterprise backend & REST APIs |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="25"> **Angular** | **Proficient** | Modern & dynamic frontend development |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="25"> **Python** | **Scripting** | Automation, security tools & AI |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="25"> **SQL / PHP / HTML / CSS** | **Proficient** | Full stack web & database management |
 
 ---
 
-### 💻 IDEs & Environments
-| <div style="width:400px">Technology</div> | <div style="width:150px">Level</div> | <div style="width:350px">Usage</div> |
-|------------|-------|-------|
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" width="40"> **IntelliJ IDEA** | Main | Daily use & high skill level |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="40"> **VS Code** | Proficient | High use & high skill level |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" width="40"> **Android Studio** | Proficient | High use & high skill level |
-| <img src="https://user-images.githubusercontent.com/4233458/29749526-6e7cc994-8b2e-11e7-8c6c-dc1fe28e6ad6.png" width="40"> **RStudio** | Standard | Used during studies |
+### 🔧 Tools & Infrastructure
+| Technology | Level | Usage |
+|:------------|:-------:|:-------|
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="25"> **Docker** | **Proficient** | Containerization & environment deployment |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="25"> **Git / GitHub** | **Main** | Version control & CI/CD workflows |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/n8n/n8n.png" width="25"> **n8n** | **Learning** | Workflow automation & AI agents integration |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" width="25"> **IntelliJ / VS Code** | **Main** | Daily development environments |
 
 ---
 
-### 🗄️ Databases
-| <div style="width:400px">Technology</div> | <div style="width:150px">Level</div> | <div style="width:350px">Usage</div> |
-|------------|-------|-------|
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" width="40"> **MySQL** | Main | Daily use & high skill level |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="40"> **MongoDB** | Standard | Used during studies |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"> **Oracle Database** | Proficient | High use & high skill level |
-
----
-
-### 🔧 Tools
-| <div style="width:400px">Technology</div> | <div style="width:150px">Level</div> | <div style="width:350px">Usage</div> |
-|------------|-------|-------|
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40"> **Git / GitHub** | Learning | Version control & collaboration |
-| **StarUML** | Standard | UML modeling — used in projects |
-| **Jaspersoft Studio** | Standard | Report generation — used in projects |
-| **Justinmind** | Standard | Prototyping & UX design |
-| **Oracle VirtualBox** | Standard | Virtualization — used in cybersecurity |
-
----
-
-### 🔐 Cybersecurity
-| <div style="width:400px">Technology</div> | <div style="width:150px">Level</div> | <div style="width:350px">Usage</div> |
-|------------|-------|-------|
-| **CCST — Cybersecurity Analyst Junior** | Certified | Official certification |
-| **TryHackMe / HackTheBox** | Training | Actively training in offensive security |
+### 🔐 Cybersecurity & Pentesting
+- **CCST — Cybersecurity Analyst Junior:** Official Cisco certification.
+- **Offensive & Defensive Security:** Active training in pentesting and vulnerability analysis.
+- **Tools:** Oracle VirtualBox, Kali Linux, Rapid7, and network diagnosis.
 
 </details>
 
 <details>
   <summary><h2>🎥 Projects / Portfolio</h2></summary>
 
-*Click on any project to view the code*
-
-| Project 1 | Project 2 |
-| --- | --- |
-| <div align="center">**[🚗 Concesionario de Coches](https://github.com/Rubenzt8/Concesionario-coches)**<br><br>[![Concesionario](https://raw.githubusercontent.com/Rubenzt8/Concesionario-coches/main/preview.png)](https://github.com/Rubenzt8/Concesionario-coches)<br><br>Java OOP — Abstract classes, inheritance and interfaces</div> | *Coming soon* |
+|                                Featured Project (TFG)                                 | Professional Backend |
+|:-------------------------------------------------------------------------------------:| :---: |
+| **[🎓 TFG]**<br>*(Link coming next week)*<br>Full Stack App | **[🚗 Concesionario de Coches](https://github.com/Rubenzt8/Concesionario-coches)**<br>[![Concesionario](https://raw.githubusercontent.com/Rubenzt8/Concesionario-coches/main/preview.png)](https://github.com/Rubenzt8/Concesionario-coches)<br>Java OOP - Inheritance & Interfaces |
 
 </details>
+
+<hr />
+
+<div align="center">
+  <a href="www.linkedin.com/in/ruben-flores-calderon">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>

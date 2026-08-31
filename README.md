@@ -45,12 +45,43 @@
 
 </details>
 
-<details>
-  <summary><h2>🎥 Projects / Portfolio</h2></summary>
+<details open>
+<summary><h2>🎥 Projects / Portfolio</h2></summary>
 
-|                                Featured Project (TFG)                                 | Professional Backend |
-|:-------------------------------------------------------------------------------------:| :---: |
-| **[🎓 TFG]**<br>*(Link coming next week)*<br>Full Stack App | **[🚗 Concesionario de Coches](https://github.com/Rubenzt8/Concesionario-coches)**<br>[![Concesionario](https://raw.githubusercontent.com/Rubenzt8/Concesionario-coches/main/preview.png)](https://github.com/Rubenzt8/Concesionario-coches)<br>Java OOP - Inheritance & Interfaces |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>📋 <a href="https://github.com/Rubenzt8/TaskMaster-Flow">TaskMaster Flow</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/JavaFX-Desktop-blue?style=flat-square" alt="JavaFX" />
+        <img src="https://img.shields.io/badge/Architecture-MVC%20%7C%20DAO-orange?style=flat-square" alt="MVC DAO" />
+        <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Tests-JUnit%206-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 6" />
+      </p>
+      <a href="https://github.com/Rubenzt8/TaskMaster-Flow">
+        <img src="https://raw.githubusercontent.com/Rubenzt8/TaskMaster-Flow/main/preview.png" width="370" height="230" alt="TaskMaster Flow Preview" />
+      </a>
+      <p align="center">
+        <sub>Desktop task manager with reactive in-memory filtering and DAO architecture.</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🚗 <a href="https://github.com/Rubenzt8/Concesionario-coches">Concesionario de Coches</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Java-OOP%20Core-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java OOP" />
+        <img src="https://img.shields.io/badge/Design-Inheritance-blueviolet?style=flat-square" alt="Herencia" />
+        <img src="https://img.shields.io/badge/Structure-Interfaces-yellowgreen?style=flat-square" alt="Interfaces" />
+        <img src="https://img.shields.io/badge/Architecture-Clean%20Code-lightgrey?style=flat-square" alt="Clean Code" />
+      </p>
+      <a href="https://github.com/Rubenzt8/Concesionario-coches">
+        <img src="https://raw.githubusercontent.com/Rubenzt8/Concesionario-coches/main/preview.png" width="370" height="230" alt="Concesionario Preview" />
+      </a>
+      <p align="center">
+        <sub>Console vehicle management system implementing core OOP, interfaces and polymorphism.</sub>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </details>
 

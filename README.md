@@ -22,9 +22,10 @@
 | Technology | Level | Usage |
 |:------------|:-------:|:-------|
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="25"> **Java (Spring Boot)** | **Main** | Enterprise backend & REST APIs |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="25"> **React / TanStack** | **Proficient** | Modern SPA/SSR full-stack web applications |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="25"> **Angular** | **Proficient** | Modern & dynamic frontend development |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="25"> **Python** | **Scripting** | Automation, security tools & AI |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="25"> **SQL / PHP / HTML / CSS** | **Proficient** | Full stack web & database management |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="25"> **SQL / PostgreSQL** | **Proficient** | Relational databases & Supabase BaaS |
 
 ---
 
@@ -32,7 +33,7 @@
 | Technology | Level | Usage |
 |:------------|:-------:|:-------|
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="25"> **Docker** | **Proficient** | Containerization & environment deployment |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="25"> **Git / GitHub** | **Main** | Version control & CI/CD workflows |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="25"> **Git / GitHub Actions** | **Main** | Version control & CI/CD workflows |
 | <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="25"> **n8n** | **Learning** | Workflow automation & AI agents integration |
 | <img src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" width="25"> **IntelliJ / VS Code** | **Main** | Daily development environments |
 
@@ -51,6 +52,21 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
+      <h3>🏛️ <a href="https://disenya.es">Disenya Studio</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-TanStack%20Start-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React TanStack" />
+        <img src="https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Supabase-BaaS-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+      </p>
+      <a href="https://disenya.es" target="_blank">
+        <img src="https://raw.githubusercontent.com/Rubenzt8/disenya-studio-showcase/main/preview.png" width="370" height="230" alt="Disenya Studio Preview" />
+      </a>
+      <p align="center">
+        <sub>Corporate architecture & interior design web with custom admin panel, Supabase BaaS, and automated CI/CD pipeline.</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
       <h3>📋 <a href="https://github.com/Rubenzt8/TaskMaster-Flow">TaskMaster Flow</a></h3>
       <p>
         <img src="https://img.shields.io/badge/JavaFX-Desktop-blue?style=flat-square" alt="JavaFX" />
@@ -63,6 +79,24 @@
       </a>
       <p align="center">
         <sub>Desktop task manager with reactive in-memory filtering and DAO architecture.</sub>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🎫 <a href="https://github.com/Rubenzt8/it-ticket-manager">IT Ticket Manager</a> <img src="https://img.shields.io/badge/Status-Cooking%20Code...-blueviolet?style=flat-square" alt="Cooking Code" /></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Java%2021-Core-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-REST%20API-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/PostgreSQL-JPA%20%2F%20Hibernate-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <a href="https://github.com/Rubenzt8/it-ticket-manager">
+        <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=230&w=370" width="370" height="230" alt="Work in progress - Laptop setup" style="border-radius: 6px; object-fit: cover;" />
+      </a>
+      <p align="center">
+        <sub><strong>🚧 [ Working on it... stay tuned! ] 🚧</strong><br />
+        Enterprise IT incident tracking REST API featuring Spring Security, JWT authentication, and Docker Compose orchestration.</sub>
       </p>
     </td>
     <td width="50%" valign="top" align="center">

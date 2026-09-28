@@ -1,53 +1,55 @@
 <h2>Hi there! My name is Ruben F.C. 👋</h2>
-<div style="font-size:18px;"><em>I build scalable applications with a Security-by-Design mindset.</em></div>
+<div style="font-size:18px;"><em>Software Engineer specializing in Java Backend Architectures with a Security-by-Design mindset.</em></div>
 <hr />
 
 <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aidloyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> About Me </h2>
 
-- 🚀 **Full Stack Java Developer** specializing in robust backend architectures.
-- 🎓 **Higher Technician in Multi-platform Applications Development (DAM)** [2026] & **MUI (Research Master)**.
-- 🔐 **Cybersecurity Analyst (CCST)** focused on vulnerability remediation and offensive security.
-- 🤖 **AI & Automation Enthusiast:** Building intelligent workflows with **n8n** and Python.
-- 🌍 **Bilingual (English C1):** Functional fluency for international technical environments.
-- 👯 Open to collaborate on enterprise software, cybersecurity tools, or innovative AI projects.
+- ☕ **Backend-Focused Java Developer:** Building scalable RESTful APIs and clean architectures using **Spring Boot**, **JPA/Hibernate**, and **PostgreSQL/MySQL**.
+- 🛡️ **Cybersecurity Analyst (Cisco CCST):** Security-first engineering focused on OWASP mitigation, JWT authentication, and secure API design.
+- ⚛️ **Modern Full-Stack Experience:** Hands-on production experience deploying SSR web applications with **React (TanStack Start)** and automated **CI/CD pipelines**.
+- 🎓 **Education:** Higher Technician in Multi-platform Applications Development (**DAM**) & **Master's Degree (MUI)**.
+- 🤖 **Automation & Cloud:** Orchestrating workflows with **Docker Compose**, **n8n**, and Python scripting.
+- 🌍 **Bilingual (English C1):** Full professional proficiency for international technical environments.
+- 👥 **Team Leadership:** Proven track record managing multidisciplinary teams and operational workflows.
 
 <hr />
 
 <details>
-<summary><h2>💻 Tech Stack</h2></summary>
+<summary><h2>💻 Tech Stack & Competencies</h2></summary>
 
 ---
 
-### 📝 Programming Languages & Frameworks
-| Technology | Level | Usage |
-|:------------|:-------:|:-------|
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="25"> **Java (Spring Boot)** | **Main** | Enterprise backend & REST APIs |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="25"> **React / TanStack** | **Proficient** | Modern SPA/SSR full-stack web applications |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="25"> **Angular** | **Proficient** | Modern & dynamic frontend development |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="25"> **Python** | **Scripting** | Automation, security tools & AI |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="25"> **SQL / PostgreSQL** | **Proficient** | Relational databases & Supabase BaaS |
+### ☕ Backend & Core Engineering
+| Technology | Proficiency | Focus / Production Usage |
+|:------------|:-----------:|:-------------------------|
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="25"> **Java (21 / LTS)** | **Main Core** | Enterprise backend, Clean Architecture, OOP principles |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" width="25"> **Spring Boot** | **Main Core** | RESTful microservices, Spring Data JPA, Spring Security, Validation |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" width="25"> **SQL & Relational DBs** | **Proficient** | PostgreSQL, MySQL, Oracle DB — schema modeling & query optimization |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="25"> **Python** | **Scripting** | Automation scripts, vulnerability tooling & data workflows |
 
 ---
 
-### 🔧 Tools & Infrastructure
-| Technology | Level | Usage |
-|:------------|:-------:|:-------|
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="25"> **Docker** | **Proficient** | Containerization & environment deployment |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="25"> **Git / GitHub Actions** | **Main** | Version control & CI/CD workflows |
-| <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="25"> **n8n** | **Learning** | Workflow automation & AI agents integration |
-| <img src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" width="25"> **IntelliJ / VS Code** | **Main** | Daily development environments |
+### ⚛️ Frontend & Full-Stack Capabilities
+| Technology | Proficiency | Focus / Production Usage |
+|:------------|:-----------:|:-------------------------|
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="25"> **React / TanStack** | **Proficient** | Modern SSR/SPA client architecture & state routing |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="25"> **Tailwind CSS** | **Proficient** | Production UI/UX layout delivery & responsive design |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" width="25"> **Angular** | **Proficient** | Enterprise frontend development & TypeScript components |
 
 ---
 
-### 🔐 Cybersecurity & Pentesting
-- **CCST — Cybersecurity Analyst Junior:** Official Cisco certification.
-- **Offensive & Defensive Security:** Active training in pentesting and vulnerability analysis.
-- **Tools:** Oracle VirtualBox, Kali Linux, Rapid7, and network diagnosis.
+### 🔧 DevOps, Quality & Security
+| Technology | Area | Details |
+|:------------|:----:|:--------|
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="25"> **Docker & Compose** | **DevOps** | Containerization of services, database volumes & multi-service environments |
+| <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="25"> **Git & GitHub Actions** | **CI/CD** | Automated build, test, and release deployment pipelines |
+| <img src="https://img.shields.io/badge/Testing-JUnit%205%20%7C%20Mockito-25A162?style=flat-square" alt="Testing" /> | **QA** | Unit testing, repository mocks, and integration verification |
+| <img src="https://img.shields.io/badge/Security-Cisco%20CCST%20%7C%20OWASP-blueviolet?style=flat-square" alt="Security" /> | **Cybersecurity** | Junior Cybersecurity Analyst certification, API access control & vulnerability analysis |
 
 </details>
 
 <details open>
-<summary><h2>🎥 Projects / Portfolio</h2></summary>
+<summary><h2>🎥 Featured Projects & Architecture</h2></summary>
 
 <table width="100%">
   <tr>
@@ -63,7 +65,7 @@
         <img src="https://raw.githubusercontent.com/Rubenzt8/disenya-architecture-case-study/main/media/Hero.png" width="370" height="230" alt="Disenya Studio Preview" style="object-fit: cover; border-radius: 6px;" />
       </a>
       <p align="center">
-        <sub>Corporate architecture & interior design web with custom admin panel, Supabase BaaS, and automated CI/CD pipeline.</sub>
+        <sub><strong>Production Client Platform:</strong> End-to-end SSR architecture, custom CMS backoffice, Supabase BaaS, and automated GitHub Actions delivery.</sub>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
@@ -72,13 +74,13 @@
         <img src="https://img.shields.io/badge/JavaFX-Desktop-blue?style=flat-square" alt="JavaFX" />
         <img src="https://img.shields.io/badge/Architecture-MVC%20%7C%20DAO-orange?style=flat-square" alt="MVC DAO" />
         <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/Tests-JUnit%206-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 6" />
+        <img src="https://img.shields.io/badge/Tests-JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
       </p>
       <a href="https://github.com/Rubenzt8/TaskMaster-Flow">
-        <img src="https://raw.githubusercontent.com/Rubenzt8/TaskMaster-Flow/main/preview.png" width="370" height="230" alt="TaskMaster Flow Preview" />
+        <img src="https://raw.githubusercontent.com/Rubenzt8/TaskMaster-Flow/main/preview.png" width="370" height="230" alt="TaskMaster Flow Preview" style="object-fit: cover; border-radius: 6px;" />
       </a>
       <p align="center">
-        <sub>Desktop task manager with reactive in-memory filtering and DAO architecture.</sub>
+        <sub><strong>DAM Capstone Project:</strong> Desktop productivity system featuring decoupled DAO architecture, reactive in-memory filtering, and robust unit testing.</sub>
       </p>
     </td>
   </tr>
@@ -108,10 +110,10 @@
         <img src="https://img.shields.io/badge/Architecture-Clean%20Code-lightgrey?style=flat-square" alt="Clean Code" />
       </p>
       <a href="https://github.com/Rubenzt8/Concesionario-coches">
-        <img src="https://raw.githubusercontent.com/Rubenzt8/Concesionario-coches/main/preview.png" width="370" height="230" alt="Concesionario Preview" />
+        <img src="https://raw.githubusercontent.com/Rubenzt8/Concesionario-coches/main/preview.png" width="370" height="230" alt="Concesionario Preview" style="object-fit: cover; border-radius: 6px;" />
       </a>
       <p align="center">
-        <sub>Console vehicle management system implementing core OOP, interfaces and polymorphism.</sub>
+        <sub>Console vehicle management system demonstrating core OOP design principles, interfaces, polymorphism, and modular data handling.</sub>
       </p>
     </td>
   </tr>
@@ -119,9 +121,15 @@
 
 </details>
 
-<h2>📊 GitHub Stats</h2>
+<hr />
 
 <div align="center">
-  <a href="https://github.com/Rubenzt8?tab=followers"><img src="https://img.shields.io/github/followers/Rubenzt8?style=social" alt="GitHub followers"></a>
-  <a href="https://github.com/Rubenzt8?tab=stars"><img src="https://img.shields.io/github/stars/Rubenzt8?style=social" alt="GitHub User's stars"></a>
+  <h3>📫 Get in touch</h3>
+  <a href="mailto:Rubenzt88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Rubenzt88%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ruben-flores-calderon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>

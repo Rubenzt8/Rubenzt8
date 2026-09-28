@@ -52,7 +52,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>🏛️ <a href="https://disenya.es">Disenya Studio</a></h3>
+      <h3>🏛️ <a href="https://github.com/Rubenzt8/disenya-architecture-case-study">Disenya Studio</a></h3>
       <p>
         <img src="https://img.shields.io/badge/React-TanStack%20Start-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React TanStack" />
         <img src="https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
@@ -60,7 +60,7 @@
         <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
       </p>
       <a href="https://disenya.es" target="_blank">
-        <img src="https://raw.githubusercontent.com/Rubenzt8/disenya-studio-showcase/main/preview.png" width="370" height="230" alt="Disenya Studio Preview" />
+        <img src="https://raw.githubusercontent.com/Rubenzt8/disenya-architecture-case-study/main/media/Hero.png" width="370" height="230" alt="Disenya Studio Preview" style="object-fit: cover; border-radius: 6px;" />
       </a>
       <p align="center">
         <sub>Corporate architecture & interior design web with custom admin panel, Supabase BaaS, and automated CI/CD pipeline.</sub>
@@ -124,12 +124,4 @@
 <div align="center">
   <a href="https://github.com/Rubenzt8?tab=followers"><img src="https://img.shields.io/github/followers/Rubenzt8?style=social" alt="GitHub followers"></a>
   <a href="https://github.com/Rubenzt8?tab=stars"><img src="https://img.shields.io/github/stars/Rubenzt8?style=social" alt="GitHub User's stars"></a>
-</div>
-
-<hr />
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ruben-flores-calderon">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 </div>

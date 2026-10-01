@@ -1,4 +1,6 @@
-<h2>Hi there! My name is Ruben F.C. 👋</h2>
+<p align="center">
+  <img src="header-banner.png" alt="Ruben F.C. - Java Backend Developer Header" width="100%" />
+</p>
 <div style="font-size:18px;"><em>Software Engineer specializing in Java Backend Architectures with a Security-by-Design mindset.</em></div>
 <hr />
 
